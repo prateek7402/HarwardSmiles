@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003918321438",
+    "firebase_url": "https://hardward-smiles.firebaseio.com",
+    "project_id": "hardward-smiles",
+    "storage_bucket": "hardward-smiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003918321438:android:a9f37c1a533936e3734b0f",
+        "android_client_info": {
+          "package_name": "com.example.harwardsmiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003918321438-0c3j07vaui54t7p7ntighlnhuavo504m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKXSby9dNI3lIzqaOK39kIbYH5b1Wy5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003918321438-0c3j07vaui54t7p7ntighlnhuavo504m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
